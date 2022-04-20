@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 body {
 }
 
+=======
+>>>>>>> 69e897dec084b6e937d5b561b4942f8367ee4e80
 .wrapper {
     max-width: 1920px;
     margin: 0 auto;
@@ -25,7 +28,11 @@ body {
 }
 
 .promo-description {
+<<<<<<< HEAD
     font-size: 1.1rem;
+=======
+    font-size: 1.3rem;
+>>>>>>> 69e897dec084b6e937d5b561b4942f8367ee4e80
     color: #f0f0f0;
 }
 
@@ -33,9 +40,12 @@ body {
     background: #f5f4f4;
 }
 
+<<<<<<< HEAD
 .contacts-container {
 }
 
+=======
+>>>>>>> 69e897dec084b6e937d5b561b4942f8367ee4e80
 .contacts-card {
     border-top: 4px solid #264fb4;
     border-bottom: 4px solid #264fb4;
